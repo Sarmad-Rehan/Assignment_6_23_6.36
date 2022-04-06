@@ -1,4 +1,5 @@
-// Program 6.27: Program that inputs a number from the user and prints the lowest and highest digit in the number.
+// Program 6.27: Program that inputs a number from the user
+// and prints the lowest and highest digit in the number.
 
 import 'dart:io';
 

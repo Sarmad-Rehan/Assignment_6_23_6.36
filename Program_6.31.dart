@@ -1,4 +1,5 @@
-// Program 6.31: Program that inputs a number and checks whether it is a perfect or not using for loop.
+// Program 6.31: Program that inputs a number and
+// checks whether it is a perfect or not using for loop.
 
 import 'dart:io';
 
